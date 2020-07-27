@@ -65,6 +65,33 @@ main ol {
     list-style-position: inside;
 }
 
+main hr {
+    margin: 20px 0;
+}
+
+main form div {
+    margin: 10px 0;
+    max-width: 400px;
+}
+
+main form label {
+    display: block;
+}
+
+main form input, main form textarea {
+    width: 100%;
+}
+
+main form input {
+    height: 27px;
+    padding-left: 5px;
+}
+
+main form textarea {
+    height: 70px;
+    padding: 5px;
+}
+
 footer {
     width: 68%;
     margin: 0 auto;
